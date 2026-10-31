@@ -1,0 +1,10 @@
+# Compiled Java class files
+*.class
+
+# Local database/state files (prevents committing your test data)
+courses.txt
+COS201_Mid-term_Report.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
